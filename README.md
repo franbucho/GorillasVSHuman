@@ -23,7 +23,6 @@ Este proyecto es una simulación visual interactiva desarrollada en Python con [
 
 Puedes instalar Ursina con:
 
-```bash
 pip install ursina
 🧠 Cómo funciona
 Cada ciclo (update) evalúa si hay combatientes vivos.
